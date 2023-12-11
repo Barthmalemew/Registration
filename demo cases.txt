@@ -1,0 +1,8 @@
+demo cases:
+
+doesnt stop user from entering anything into course schedule and saving it.
+
+student ID's are exactly 4 characters, and in alphabetical order. read entire file to find number of lines and create dynamic array (student structures) to fit all the id's. read again to store.
+
+inFile.clear()
+inFile.seekg(0, ios::beg);
