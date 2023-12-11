@@ -1,3 +1,0 @@
-demo cases:
-
-doesnt stop user from entering anything into course schedule and saving it.
